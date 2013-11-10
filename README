@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4766
+
+Major application: automatically source per-project Vim configuration from anywhere inside the source tree.
+
+Source and docs
+
+https://github.com/cirosantilli/sovim
